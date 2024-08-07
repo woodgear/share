@@ -1,0 +1,1 @@
+oss preifx: https://cong-storage.oss-cn-hangzhou.aliyuncs.com/sm/pj/share/ngshark/imgs/
